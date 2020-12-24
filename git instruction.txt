@@ -1,0 +1,10 @@
+git clone url of resource
+
+to add into resource
+git add file-name
+
+to add multi files
+it add .
+whatever files present in the directory
+.--- current
+..----old 
